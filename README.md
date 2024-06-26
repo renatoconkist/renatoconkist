@@ -1,15 +1,13 @@
 
-<h1 align="center">
+<h2 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="banner.png" alt="Renato Lima Banner" width="100%"></a>
   <br>
-  Renato Lima
+  Renato Lima - FullStack Unity Developer and Founder at <a href="http://conkist.me" target="_blank">Conkist</a>.
   <br>
-</h1>
+</h2>
 
-<h4 align="center">FullStack Unity Developer and Founder at <a href="http://conkist.me" target="_blank">Conkist</a>.</h4>
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
     <img src="[https://badge.fury.io/js/electron-markdownify.svg](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)"
          alt="Gitter">
@@ -32,9 +30,9 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif) -->
 
-## Key Features
+<!-- ## Key Features
 
 * LivePreview - Make changes, See changes
   - Instantly see what your Markdown documents look like in HTML as you create them.
@@ -113,5 +111,5 @@ This software uses the following open source packages:
 ## You may also like...
 
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS -->
 
