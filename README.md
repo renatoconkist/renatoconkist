@@ -10,15 +10,10 @@
 
 ## Portfolio
 
-<div style="display:flex-box;">
-  <div style="display:inline;">
+<div align="center">
     <img title="SuperGeeks Curitiba" src="workflows/SuperGeeks.gif" height="350" style="border-radius:10px; border: solid white 4px;" alt="arsenal video">
     <img title="Arsenal Freestyle Show" src="workflows/Arsenal.gif" height="350" style="border-radius:10px; border: solid white 4px;" alt="arsenal video">
-  </div>
-  <div style="display:grid; ">
     <img title="Kids+Jesus" src="workflows/Kids+Jesus.gif" width="325" style="border-radius:10px; border: solid white 4px;" alt="arsenal video">
-    <img title="Kids+Jesus" src="workflows/Kids+Jesus.gif" width="325" style="border-radius:10px; border: solid white 4px;" alt="arsenal video">
-  </div>
 </div>
 <p align="right">*Hover for more details</p>
 
