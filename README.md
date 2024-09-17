@@ -2,7 +2,7 @@
   <br>
   <img src="banner.png" alt="Renato Lima Banner" width="100%">
   <br>
-  Renato Lima - FullStack Unity Developer and Founder at <a href="http://conkist.me" target="_blank">Conkist</a>
+  Renato Lima - FullStack Unity Developer and Founder at <a href="https://conkist.me" target="_blank">Conkist</a>
   <br>
 </h2>
 
@@ -77,7 +77,9 @@ Fluent English, Creativity, Clear Communication, Empathy, Open-minded, Innovatio
 
 ###
 
-<p align="right">AI & Tools:<br>Notion, Microsoft Office + Copilot, Github Copilot, ChatGPT, StableDiffusion, HeyGen, ElevenLabs, N8N</p>
+<p align="right">AI & Tools:<br>
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="32" alt="notion logo"/>
+Microsoft Office + Copilot, Github Copilot, ChatGPT, StableDiffusion, HeyGen, ElevenLabs, N8N</p>
 
 ### 
 <h2 align="right">Contact Me</h2>
@@ -98,8 +100,11 @@ Fluent English, Creativity, Clear Communication, Empathy, Open-minded, Innovatio
 
 
 <div align="right">
+  <a href="https://renatoconkist.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" height="32" alt="itch.io logo"  />
+  </a><br>
   Follow <a href="https://www.instagram.com/conkiststudio/"> Conkist</a><br>
-  Instagram <a href="http://conkist.me/links">Links</a><br>
+  Instagram <a href="https://conkist.me/links">Links</a><br>
   <a href="https://wa.me/5591991185008">Request</a> a Service Budget<br>
   Support our Projects
 </div>
