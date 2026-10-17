@@ -1,110 +1,121 @@
 <h2 align="center">
   <br>
-  <img src="banner.png" alt="Renato Lima Banner" width="100%">
+  <img src="banner.png" alt="Renato Lima" width="100%">
   <br>
-  Renato Lima - FullStack Unity Developer and Founder at <a href="https://conkist.me" target="_blank">Conkist</a>
+  Renato Lima
   <br>
 </h2>
 
-<p align="center">Born and raised in the north of Brazil, I am a professional C# Developer with extensive expertise in Unity Game Engine, Design, and Production. With over 5 years of experience making mobile games, I started my own business to build my experience as a producer and founder at Conkist. I love sharing knowledge, building great relationships, and bringing joy to other's lives.</p>
+<p align="center">
+  <em>Game dev &amp; researcher · I've been building games that teach without being boring since 2013 — before it had a name</em><br><br>
+  Founder of <a href="https://conkist.me">Conkist</a> &nbsp;·&nbsp; Brazil / Europe
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/renatoconkist/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://renatoconkist.itch.io/">
+    <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" height="28" alt="itch.io" />
+  </a>
+  &nbsp;
+  <a href="https://orcid.org/0009-0005-5678-2210">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="28" alt="orcid" />
+  </a>
+  &nbsp;
+  <a href="https://conkist.me">
+    <img src="https://img.shields.io/badge/conkist.me-111827?style=for-the-badge" height="28" alt="website" />
+  </a>
+</p>
+
+---
+
+## About
+
+I started building games in undergrad because I saw a gap: CS education was abstract, disconnected from the things students actually wanted to make. My thesis was a Unity game with an in-game terminal and a custom scripting language — before "serious games" was a phrase I knew.
+
+That gap is still there. I've spent the last decade making commercial games, researching how games can be more meaningful, and building [Conkist](https://conkist.me) — the company doing both.
+
+> *Evolve with more joy.*
+
+---
 
 ## Portfolio
 
 <div align="center">
-    <img title="SuperGeeks Curitiba" src="workflows/SuperGeeks.gif" height="350" style="border-radius:10px; border: solid white 4px;" alt="arsenal video">
-    <img title="Arsenal Freestyle Show" src="workflows/Arsenal.gif" height="350" style="border-radius:10px; border: solid white 4px;" alt="arsenal video">
-    <img title="Kids+Jesus" src="workflows/Kids+Jesus.gif" width="325" style="border-radius:10px; border: solid white 4px;" alt="arsenal video">
+  <img title="SuperGeeks Curitiba" src="workflows/SuperGeeks.gif" height="320" style="border-radius:10px; border: solid white 4px;" alt="SuperGeeks" />
+  <img title="Arsenal Freestyle Show" src="workflows/Arsenal.gif" height="320" style="border-radius:10px; border: solid white 4px;" alt="Arsenal" />
+  <img title="Kids+Jesus" src="workflows/Kids+Jesus.gif" width="300" style="border-radius:10px; border: solid white 4px;" alt="Kids+Jesus" />
 </div>
-<p align="right">*Hover for more details</p>
 
-## Soft Skills
+<p align="right"><sub>Commercial projects · 2019–2023</sub></p>
 
-Fluent English, Creativity, Clear Communication, Empathy, Open-minded, Innovation Hacking
+### Public Repos
 
-## Technologies
+| Project | What it is |
+|---|---|
+| [Virtual Justice](https://github.com/renatoconkist/Virtual-Justice) | Undergraduate thesis — Unity game with in-game programming terminal and custom scripting language (CESUPA, 2014) |
+| [AsteroidZ](https://github.com/renatoconkist/AsteroidZ) | Portfolio & architecture study — clean Unity 2D project structure, ScriptableObjects, New Input System |
+| [DungeonSweeper](https://github.com/renatoconkist/DungeonSweeper) | Vampire Survivors template — Visual Scripting (Bolt) study resource with documented extension points |
+| [WhoIsAGoodBoy](https://github.com/renatoconkist/WhoIsAGoodBoy) | Global Game Jam 2021 — asymmetric 2-player party game, dog vs. owner |
+
+---
+
+## Research
+
+<!-- ORCID-WORKS:START -->
+| Year | Title | Venue |
+|---|---|---|
+| 2026 | [ECO-STICK: Integrated control with ecological elements for interactive solutions in the Amazon](https://doi.org/10.1145/3788851.3815049) | ACM |
+| 2026 | [Project SmartAvatar: A Human-Avatar Interface](https://doi.org/10.1145/3788851.3815043) | ACM |
+| 2025 | [GeoModel: Technology and Innovation for a Diverse and Interactive Geometric Education](https://doi.org/10.1145/3706370.3731710) | ACM |
+<!-- ORCID-WORKS:END -->
+
+<p align="right"><sub>Auto-updated from <a href="https://orcid.org/0009-0005-5678-2210">ORCID ↗</a></sub></p>
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase" />
 </div>
 
-###
+---
+
+## Connect
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge" height="30" alt="inkscape logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="adobeillustrator logo"  />
-</div>
-
-###
-
-<p align="right">AI & Tools:<br>
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="32" alt="notion logo"/>
-Microsoft Office + Copilot, Github Copilot, ChatGPT, StableDiffusion, HeyGen, ElevenLabs, N8N</p>
-
-### 
-<h2 align="right">Contact Me</h2>
-
-###
-
-<div align="right">
-  <a href="https://www.linkedin.com/in/renatoconkist/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/renatoconkist/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
-  <a href="mailto:renato.conkist@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+  &nbsp;
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord" />
+  &nbsp;
+  <a href="mailto:renato.conkist@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail" />
   </a>
-</div>
-
-<h2 align="right">Additional Links</h2>
-
-
-<div align="right">
-  <a href="https://renatoconkist.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" height="32" alt="itch.io logo"  />
-  </a><br>
-  Follow <a href="https://www.instagram.com/conkiststudio/"> Conkist</a><br>
-  Instagram <a href="https://conkist.me/links">Links</a><br>
-  <a href="https://wa.me/5591991185008">Request</a> a Service Budget<br>
-  Support our Projects
 </div>
