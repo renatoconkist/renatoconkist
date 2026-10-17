@@ -79,29 +79,16 @@ That gap is still there. I've spent the last decade making commercial games, res
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase" />
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,blender,figma" height="40" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,blender,figma" height="40" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,blender,figma" height="40" />
+  </marquee>
+  <marquee behavior="scroll" direction="right" scrollamount="5">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,firebase,postgres,supabase" height="40" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,firebase,postgres,supabase" height="40" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,firebase,postgres,supabase" height="40" />
+  </marquee>
 </div>
 
 ---
