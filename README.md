@@ -79,8 +79,8 @@ That gap is still there. I've spent the last decade making commercial games, res
 ## Tech Stack
 
 <div align="center">
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=unity,cs,dotnet,blender,figma&direction=left&width=800" alt="Game & Creative Stack" /><br/>
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=html,css,js,git,firebase,postgres,supabase&direction=right&width=800" alt="Web & Backend Stack" />
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=unity,cs,dotnet,blender,figma,vscode,androidstudio,xcode&direction=left&width=800" alt="Game & Creative Stack" /><br/>
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=html,css,js,ts,py,git,firebase,postgres,supabase,vercel,notion&direction=right&width=800" alt="Web & Backend Stack" />
 </div>
 
 ---
