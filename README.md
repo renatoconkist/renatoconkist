@@ -79,9 +79,9 @@ That gap is still there. I've spent the last decade making commercial games, res
 ## Tech Stack
 
 <div align="center">
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=unity,cs,dotnet,blender,figma,vscode,git&direction=left&width=800" alt="Game Dev & Core" /><br/>
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=js,ts,py,react,flutter,docker,github&direction=right&width=800" alt="Languages & Platforms" /><br/>
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=firebase,postgres,aws,pytorch,huggingface,claudecode&direction=left&width=800" alt="Data, Cloud & AI" />
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=unity,cs,dotnet,blender,figma,krita,inkscape,animejs,lottiefiles,threejs,html,css3,js,ts,py,dart,swift,kotlin,lua,sql&direction=left&width=800" alt="Game Dev, Creative & Languages" /><br/>
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=react,redux,tailwindcss,vite,flutter,androidstudio,xcode,jquery,node,fastapi,graphql,jwt,npm,gradle,swagger,stripe,n8n,postman,rabbitmq,pwa&direction=right&width=800" alt="Frontend, Mobile & Backend" /><br/>
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=firebase,postgres,supabase,mongodb,mysql,redis,docker,github,git,aws,azure,googlecloud,vercel,pytorch,huggingface,claudecode,chatgpt,gemini,ollama,vscode&direction=left&width=800" alt="Databases, Cloud & AI" />
 </div>
 
 ---
