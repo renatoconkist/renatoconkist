@@ -79,14 +79,9 @@ That gap is still there. I've spent the last decade making commercial games, res
 ## Tech Stack
 
 <div align="center">
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=html,css3,js,ts,py,dart,kotlin,swift,lua,sql,xml,json,svg,latex,markdown,regex&direction=left&width=800" alt="Languages" /><br/>
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=unity,cs,dotnet,blender,figma,krita,inkscape,animejs,lottiefiles,threejs&direction=right&width=800" alt="Game Dev & Creative" /><br/>
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=flutter,react,redux,tailwindcss,vite,pwa,jquery,androidstudio,xcode,apple&direction=left&width=800" alt="Mobile & Frontend" /><br/>
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=node,fastapi,strapi,swagger,graphql,jwt,npm,gradle,rabbitmq,stripe,n8n,postman&direction=right&width=800" alt="Backend & APIs" /><br/>
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=firebase,postgres,supabase,mongodb,mysql,mariadb,redis,sqlite,bigquery&direction=left&width=800" alt="Databases" /><br/>
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=docker,github,gitlab,githubactions,git,aws,azure,googlecloud,digitalocean,cloudflare,terraform,debian,vercel&direction=right&width=800" alt="Cloud & DevOps" /><br/>
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=chatgpt,gemini,geminicli,huggingface,ollama,pytorch,claudecode,codex,elevenlabs,civitai,comfyui,meta,microsoftcopilot,modelcontextprotocol,onyx&direction=left&width=800" alt="AI & ML" /><br/>
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=vscode,dbeaver,jupyter,overleaf,filezilla,putty,powershell,curl,canva,slack,notion,googleworkspace,powerbi,mermaid,googleantigravity&direction=right&width=800" alt="Tools & Productivity" />
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=unity,cs,dotnet,blender,figma,vscode,git&direction=left&width=800" alt="Game Dev & Core" /><br/>
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=js,ts,py,react,flutter,docker,github&direction=right&width=800" alt="Languages & Platforms" /><br/>
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=firebase,postgres,aws,pytorch,huggingface,claudecode&direction=left&width=800" alt="Data, Cloud & AI" />
 </div>
 
 ---
