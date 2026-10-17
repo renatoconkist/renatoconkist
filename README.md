@@ -79,16 +79,8 @@ That gap is still there. I've spent the last decade making commercial games, res
 ## Tech Stack
 
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,blender,figma" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,blender,figma" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,blender,figma" height="40" />
-  </marquee>
-  <marquee behavior="scroll" direction="right" scrollamount="5">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,firebase,postgres,supabase" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,firebase,postgres,supabase" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,firebase,postgres,supabase" height="40" />
-  </marquee>
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=unity,cs,dotnet,blender,figma&direction=left&width=800" alt="Game & Creative Stack" /><br/>
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=html,css,js,git,firebase,postgres,supabase&direction=right&width=800" alt="Web & Backend Stack" />
 </div>
 
 ---
